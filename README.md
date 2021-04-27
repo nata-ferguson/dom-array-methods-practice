@@ -1,4 +1,4 @@
-Practicing order array methods and DOM manipulation using:<br>
+Practicing higher-order array methods and DOM manipulation using:<br>
 <br>
 forEach() to loop and output user & wealth<br>
 map() to double wealth<br>
