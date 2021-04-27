@@ -9,3 +9,5 @@ sort() to sort by wealth<br>
 reduce() to add all wealth<br>
 <br>
 Fetch random users from the randomuser.me API
+<br>
+Demo at http://hard-to-find-tax.surge.sh/
