@@ -1,5 +1,3 @@
-# dom-array-methods-practice
-
 Practicing order array methods and DOM manipulation using:<br>
 <br>
 forEach() to loop and output user & wealth<br>
